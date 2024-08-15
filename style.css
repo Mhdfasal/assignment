@@ -1,0 +1,176 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif;
+    -webkit-tap-highlight-color: transparent;
+    
+
+}
+body{
+    background: #b48e71;
+    margin-bottom: 100px;
+    text-align: center;
+    padding: 10 px;
+    overflow-x: hidden;
+}
+.sec-1{
+    position: relative;
+    width: 100%;
+    height: 100vh;
+    overflow: hidden;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+
+
+}
+.sec-2{
+    
+    text-align: center;
+    
+    
+   
+    
+}
+
+#bg{
+         position: absolute;
+         top: 0;
+         left: 0;
+        width: 90%;
+        height: 100%;
+         object-fit: cover;
+         pointer-events: none;
+         z-index: -1;
+         margin-left:17px;
+         margin-top: 20px;
+         border-radius: 30px;
+         border: 1px solid rgba(255, 255, 255, 0.3);
+
+
+         
+}
+h2{
+  color:  #FAF9F6;
+  text-align: center;
+  margin-top: 30px;
+  
+  
+
+}
+h5{
+   color: #FFFFF0;
+   text-align: center;
+   margin-top: 20px;
+}
+h3{
+    color: #faf9f6;
+    margin-top: 30px;
+    
+    
+
+    
+  
+  }
+   .box{
+    margin-top: 30px;
+    background-color:#0f191b;
+    width:280px;
+    height: auto;
+    border-radius: 20px;
+    padding: 15px;
+    text-align: center;
+    border: 1px solid #faf9f6;
+    padding-bottom: 30px;
+    vertical-align: center;
+    display: inline-block;
+
+    
+        
+     
+      
+
+ 
+    
+
+}
+.round-box-img{
+    width: 270px;
+    height: 150px;
+    margin-top: 15px;
+    border-radius: 14px;
+    border: 1px solid #faf9f6;
+
+    
+}
+.plane-img{
+    width: 320px;
+    height: 180px;
+    margin-top: 30px;
+    border-radius: 14px;
+    border: 1px solid #faf9f6;
+    
+}
+button{
+
+    background-color:#b48e71 ;
+    border-radius: 30px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left:20px ;
+    padding-right: 20px;
+    border: 1px solid #faf9f6;
+
+}
+a{
+    text-decoration: none;
+    color:  #0f191b;
+    font-weight: 500;
+    
+    
+    
+}
+
+
+hr{
+    margin-top: 40px;
+    background: #0f191b;
+
+border-radius: 16px;
+box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);
+backdrop-filter: blur(5px);
+-webkit-backdrop-filter: blur(5px);
+border: 1px solid rgba(255, 255, 255, 0.3);
+
+}
+.sec-3{
+    text-align: center;
+}
+
+.arrow{
+    margin-top: 40px;
+    
+}
+p{
+    
+    color: #faf9f6;
+    margin-top: 15px;
+ 
+}
+h4{
+    margin-top: 40px;
+    color: #faf9f6;
+   
+   
+ 
+}
+.circle-img{
+   
+    object-fit: cover;
+    width: 110px;
+    height: 110px;
+   border-radius: 50%;
+   border: 1px solid #faf9f6;
+   
+}
